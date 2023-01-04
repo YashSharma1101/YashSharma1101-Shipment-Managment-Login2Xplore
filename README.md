@@ -20,3 +20,7 @@ Obtain the database connection token.
 To save shipping information, create an HTML form.
 
 Using Ajax and Javascript to manipulate databases, such as Save, Update, and Reset.
+
+# Screenshots
+![Screenshot (806)](https://user-images.githubusercontent.com/110088579/210654847-93d15b4f-12eb-4c5c-a0f4-99b1876d7772.png)
+
