@@ -1,6 +1,6 @@
 # YashSharma1101-Shipment-Managment-Login2Xplore
 
-The project is about shipment management, and it consists primarily of an HTML page that inserts and updates shipment information in the JsonDb database.
+The project is about shipment management, and it consists primarily of an HTML page that inserts and updates shipment information in the JsonPowerDb database.
 
 # Benefits of using JsonPowerDB
 
